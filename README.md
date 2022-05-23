@@ -1,5 +1,11 @@
 # nodejs-books
 
+_বাংলা বইসমুহ_
+
+**ডাটা সাইন্স**
+
+- <a href="https://raw.githubusercontent.com/samayun/nodejs-books/master/A_beginners_guide_to_data_science_v19_31_07_20.pdf" target="_blank"> এ বিগেইনার গাইড টু ডাটা সাইন্স</a>
+
 _Some nodejs book added_
 
 - <a href="https://raw.githubusercontent.com/samayun/nodejs-books/master/*%2012%20Node.js%20Design%20Patterns%20Design%20and%20implement%20-%20Third%20Edition%20%5BBooxRack%5D.pdf" target="_blank"> 12 Node.js Design Patterns Design and implement </a>
