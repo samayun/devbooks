@@ -26,5 +26,7 @@ _English Books_
 
   - <a href="https://raw.githubusercontent.com/samayun/devbooks/master/mastering-kubernetes-level-up-your-container-orchestration-skills-with-kubernetes-to-build-run-secure-and-observe-large-scale-distributed-apps-3rd-edition.pdf" target="_blank"> Mastering Kubernetes</a>
 
+
 * Miscellaneous 
-  - Redis Microservices 
+
+  - <a href="https://raw.githubusercontent.com/samayun/devbooks/master/redis-microservices-fd.pdf" target="_blank"> Redis Microservices  </a>
